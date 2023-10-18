@@ -42,3 +42,8 @@ plt.title("Histograma de edades de los personajes de Futurama")
 plt.hist(edades, bins = 20, range=(0,210))
 plt.show()
 
+# Creamos Box plot a petición del profe
+plt.title("Box plot de edades de los personajes de Futurama")
+plt.boxplot(edades, notch=None, vert=None, patch_artist=None, widths=None)
+plt.show()
+

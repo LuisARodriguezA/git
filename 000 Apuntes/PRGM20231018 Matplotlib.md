@@ -4,11 +4,10 @@ Tags: #PRGM #UNAL #Python
 ___
 # PRGM20231017 Matplotlib
 ___
-* List comprehension
+## List comprehension
 ![[list-comprehension 1.png]]
-___
-# Todo
-- [ ] 
+## [Box plot](https://en.wikipedia.org/wiki/Box_plot)
+* 
 ___
 # Sources
 1. https://www.geeksforgeeks.org/python-string-replace/
