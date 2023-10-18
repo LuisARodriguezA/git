@@ -17,10 +17,10 @@ for character in data:
 for character in data:
     if character["gender"] == "Male":
         Male.append(character["name"]["first"])
-    if character["gender"] == "Female":
+    elif character["gender"] == "Female":
         Female.append(character["name"]["first"])
-else:
-    Non_binary.append(character["name"]["first"])
+    else:
+        Non_binary.append(character["name"]["first"])
 
 # Imprimimos las listas
 print(Male)
