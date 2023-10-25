@@ -10,8 +10,8 @@ Female = []
 Non_binary = []
 
 # Primero veo cuales generos hay (Inclusión ante todo))
-for character in data:
-    print(character["gender"])
+# for character in data:
+ #    print(character["gender"])
 
 # Ahora los agrego a las listas de acuerdo a su genero
 for character in data:
