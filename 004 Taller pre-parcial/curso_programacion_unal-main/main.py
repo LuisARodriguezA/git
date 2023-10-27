@@ -146,6 +146,5 @@ def main():
     diagram_species(data, generos, especies)
     gender_ages(data)
     ages_only(data, edades)
-
-
+ 
 main()
