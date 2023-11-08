@@ -1,6 +1,6 @@
 2023-10-18
 06:29:00
-Tags: #PRGM #UNAL #Python #PGRM 
+Tags: #UNAL #Python #PGRM 
 ___
 # PRGM20231017 Matplotlib
 ___
