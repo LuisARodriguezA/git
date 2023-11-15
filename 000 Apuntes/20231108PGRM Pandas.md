@@ -12,6 +12,9 @@ ___
 * Se lo metieron a Chatsito... y la pago épicamente
 * El problema radica en que no esta iterando por la lista, solo lo esta llamando una sola vez...
 ## [[Pandas]]
+
+>[!Important]
+>Ver materia Goematica
 ___
 # Sources
 1. 
